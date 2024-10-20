@@ -1,2 +1,2 @@
-# LSTM_based_traffic_prediciton
+# LSTM_based_traffic_prediction
 LSTM based models for traffic flow prediction
